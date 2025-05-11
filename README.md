@@ -8,15 +8,13 @@
 - **Merchant Address Configuration**: Merchants set a unique cryptocurrency receiving address before processing payments.
 - **User-Friendly Interface**: Intuitive EDC interface for merchants to manage transactions with minimal training.
 - **Receipt Generation**: Prints or emails transaction receipts with QR codes for blockchain verification.
-- **Multi-Network Support**: Supports payments across multiple blockchain networks (e.g., Bitcoin, Ethereum, Solana).
+- **Multi-Network Support**: Supports payments across multiple blockchain networks.
 
 ## Supported Cryptocurrencies
 
 - Bitcoin (BTC) (not available yet)
 - Ethereum (ETH) (not available yet)
 - Solana (SOL) (not available yet)
-
-> **Note**: More tokens can be added via API updates. See [API Integration](#api-integration).
 
 ## Requirements
 
