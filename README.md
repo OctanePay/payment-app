@@ -1,10 +1,3 @@
----
-title: OctanePay Payment App
-description: A payment application for Android-based EDC devices to accept cryptocurrency payments via NFC tap-to-pay from cold wallets.
----
-
-import { CodeBlock } from '@theme/CodeBlock';
-
 # OctanePay Payment App
 
 **OctanePay** is a payment application designed for Android-based Electronic Data Capture (EDC) devices, enabling merchants to accept cryptocurrency payments using NFC tap-to-pay from customers' cold wallets. Merchants must configure a receiving address for payments, ensuring secure and seamless transactions. OctanePay bridges traditional point-of-sale (POS) systems with blockchain technology, empowering businesses to engage with the cryptocurrency economy.
