@@ -12,9 +12,9 @@
 
 ## Supported Cryptocurrencies
 
-- Bitcoin (BTC)
-- Ethereum (ETH)
-- Solana (SOL)
+- Bitcoin (BTC) (not available yet)
+- Ethereum (ETH) (not available yet)
+- Solana (SOL) (not available yet)
 
 > **Note**: More tokens can be added via API updates. See [API Integration](#api-integration).
 
@@ -29,7 +29,7 @@
 ## Installation
 
 1. **Download the APK**:
-   - Obtain the OctanePay APK from the official [OctanePay website](https://octanepay.com/downloads) or your EDC provider’s portal.
+   - Obtain the OctanePay APK from Repository
    - Verify the APK’s digital signature to ensure authenticity.
 
 2. **Enable Unknown Sources**:
